@@ -1,8 +1,4 @@
-﻿using System;
-using Newtonsoft.Json;
-using SignalR.Client._20.Hubs;
-
-namespace SignalR.Client._20
+﻿namespace SignalR.Client._20
 {
     public static class ConnectionExtensions
     {
